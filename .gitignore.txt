@@ -1,0 +1,9 @@
+# ✅ Archivo: .gitignore
+
+# Archivos a ignorar
+.env
+node_modules/
+*.log
+.DS_Store
+dist/
+.cache/
